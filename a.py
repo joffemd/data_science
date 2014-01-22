@@ -1,7 +1,7 @@
 
 # repeatedly ask user for a word
 # concatenate the words
-# when used enters ! ? or . end and display
+# when user enters ! ? or . end and display the sentence
 
 sentence = ""
 
